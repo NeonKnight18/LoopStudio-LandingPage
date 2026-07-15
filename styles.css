@@ -163,7 +163,7 @@ a:hover, a:focus {
 
 /* ------------- HERO SECTION ---------------*/
 .hero-section {
-  background-image: url(/images/desktop/image-hero.jpg);
+  background-image: url(./images/desktop/image-hero.jpg);
   height: 1000px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -225,7 +225,7 @@ a:hover, a:focus {
  }
   
 .btn {
-  DISPLAY: inline-block;
+  display: inline-block;
   background-color: var(--neutral-white);
   border: var(--neutral-black) 1px solid;
   padding: 8px 32px 4px;

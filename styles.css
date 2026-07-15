@@ -163,7 +163,7 @@ a:hover, a:focus {
 
 /* ------------- HERO SECTION ---------------*/
 .hero-section {
-  background-image: url(/images/desktop/image-hero.jpg);
+  background-image: url (./images/desktop/image-hero.jpg);
   height: 1000px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -344,8 +344,7 @@ a:hover, a:focus {
 
   /* ------------- MEDIA QUERIES ---------------*/
   
-
-  
+ 
   @media (max-width: 1100px) {
     
     .info-section {

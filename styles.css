@@ -163,7 +163,7 @@ a:hover, a:focus {
 
 /* ------------- HERO SECTION ---------------*/
 .hero-section {
-  background-image: url(./images/desktop/image-hero.jpg);
+  background-image: url(/LoopStudio-LandingPage/images/desktop/image-hero.jpg);
   height: 1000px;
   background-size: cover;
   background-repeat: no-repeat;
